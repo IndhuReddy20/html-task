@@ -1,0 +1,7 @@
+iframes are used to embed the content in our html code
+
+Syntax:
+<iframes src=""></iframes>
+
+Attributes:
+src,frameborder,width,height,name
